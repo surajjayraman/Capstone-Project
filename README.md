@@ -6,6 +6,6 @@ The events are presented on a map view based on a pre-selected event category. T
 To use the app please plug-in the Maps API and EventBrite Auth Token Keys to lines 6 and 7 of Strings.xml.
 
 Why this Project?
-The Capstone project gives the experience tha one needs to own the full development of an app. This stage replicates the design and planning experience that proficient Android Developers are expected to demonstrate.
+The Capstone project gives the experience that one needs to own the full development of an app. This stage replicates the design and planning experience that proficient Android Developers are expected to demonstrate.
 
 
